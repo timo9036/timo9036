@@ -1,4 +1,9 @@
 # Hi, I'm Timothy 👋
+<p align="left">
+  <a href="https://github.com/timo9036">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Software+Engineer;Kotlin+%26+Java+%26+Javascript" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 💫 About Me
 📱 Android Developer with 2 years of experience creating user-centric mobile apps. Specializing in building robust applications using Kotlin, Java, and the Android Jetpack suite, utilizing the MVVM architecture. Proficient with version control using Git and backend services with Firebase. With a published app on the Google Play Store, my background in IT and certifications (CCNA, AZ-900) provide a well-rounded view of the full development lifecycle. As a U.S. Citizen, I do not require sponsorship.
@@ -26,7 +31,11 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=timo9036&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=timo9036&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=timo9036&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo9036&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=timo9036&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
