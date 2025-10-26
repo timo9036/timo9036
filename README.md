@@ -33,6 +33,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo9036&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+## 🐍 My Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timo9036/timo9036/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=timo9036&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
