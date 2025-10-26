@@ -1,7 +1,7 @@
 # Hi, I'm Timothy 👋
 <p align="left">
   <a href="https://github.com/timo9036">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Software+Engineer;Kotlin+%26+Java+%26+Javascript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Software+Engineer;Kotlin+%26+Java+%26+Python+%26+Javascript" alt="Typing SVG" />
   </a>
 </p>
 
