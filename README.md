@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Software+Engineer;Kotlin+%26+Java+%26+Python+%26+JavaScript" alt="Typing SVG" />  </p>
 
 ## 💫 About Me
-📱 Android Developer with 2 years of experience creating user-centric mobile apps. Specializing in building robust applications using Kotlin, Java, and the Android Jetpack suite, utilizing the MVVM architecture. Proficient with version control using Git and backend services with Firebase. With a published app on the Google Play Store, my background in IT and certifications (CCNA, AZ-900) provide a well-rounded view of the full development lifecycle. As a U.S. Citizen, I do not require sponsorship.
+📱 Android Developer with 2 years of experience creating user-centric mobile apps. Specializing in building robust applications using Kotlin, Java, and the Android Jetpack suite, utilizing the MVVM architecture. Proficient with version control using Git and backend services with Firebase. With a published app on the Google Play Store, my background in IT and certifications (CCNA, AZ-900) provide a well-rounded view of the full development lifecycle.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timothysliu)
